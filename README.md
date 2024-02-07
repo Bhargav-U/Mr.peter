@@ -12,3 +12,10 @@ The project has features like:
 5.fun animations like sleep,knock wake,music,etc
 
 this also comes with additional device called "peter's hub" which is basically a automated smart watering system that can manage multiple plants at once 
+### Under development
+
+# Mr.peter's hub
+This is mr.peter on steroids,this is a  smart watering system to manage multiple plants from your phone.Its easy to setup and intutive to use.
+
+
+
